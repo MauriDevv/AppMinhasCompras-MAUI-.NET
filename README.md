@@ -1,0 +1,1 @@
+# AppMinhasCompras-MAUI-.NET
