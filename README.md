@@ -16,9 +16,8 @@ Pesquisa de produtos em tempo real através de um campo de busca;
 Exclusão de produtos utilizando gesto de deslizar (Swipe), com confirmação da ação por meio de uma caixa de diálogo;
 Seleção de itens para edição de suas informações;
 Cálculo do valor total da lista por meio da opção "Somar", que percorre todos os produtos cadastrados e apresenta o resultado acumulado ao usuário.
-Cadastro de Produto
 
-A segunda tela é responsável pelo cadastro e edição dos produtos. O formulário contém campos para descrição, quantidade e preço unitário.
+Cadastro de Produto: A segunda tela é responsável pelo cadastro e edição dos produtos. O formulário contém campos para descrição, quantidade e preço unitário.
 
 O comportamento da tela é definido pelo objeto associado ao BindingContext:
 
