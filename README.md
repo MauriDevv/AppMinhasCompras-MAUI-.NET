@@ -6,7 +6,7 @@ Os dados são armazenados localmente por meio de um banco de dados SQLite, possi
 
 A aplicação é composta por duas telas principais: Lista de Produtos e Cadastro de Produto.
 
-# Lista de Produtos
+Lista de Produtos
 
 A tela inicial exibe todos os produtos cadastrados, recuperando as informações armazenadas no banco de dados SQLite. Os registros são apresentados em uma lista dinâmica vinculada a uma ObservableCollection, permitindo que as alterações sejam refletidas automaticamente na interface.
 
